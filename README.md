@@ -1,4 +1,4 @@
-# snowflake-hurricane-response
+# snowflake-cortex-hurricane-response
 This repository supports the Hurricane Response project, focused on leveraging Generative AI (GenAI) and Snowflake Cortex to streamline disaster response efforts. The project harnesses Snowflake's GenAI capabilities to process and analyze large-scale datasets and unstructured documents, driving actionable insights for disaster management.
 
 Key features include:
